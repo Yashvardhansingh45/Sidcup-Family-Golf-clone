@@ -3,3 +3,5 @@ Sidcup Family Golf Clone This is a frontend clone of the Sidcup Family Golf webs
 https://yashvardhansingh45.github.io/Sidcup-Family-Golf-clone/
 <br>
 this is not a responsive website rightnow but it will be responsive soon. I am workin on it.
+<br>
+for better viewing experence you should try it on dekstop with 80% zoom
